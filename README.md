@@ -23,7 +23,7 @@ Here is how the data was transformed from a messy raw file into a high-quality a
 
 ## Data Insights  
 
-[Energy Transition Gap](./visuals/energy_transition_gap.png)  
+[Energy Transition Gap](./energy_transition_chart.png)  
 
 1. Steady transition: Both lines move in gradual, steady slopes rather than sudden spikes. <br> Because energy relies on massive physical power grids and factories, change takes time. By using discrete chart markers (`o` and `x`) for every single year, the chart clearly maps this steady, year-by-year shift rather than a sudden disruption.  
 2. Turning point: 2012 was the official "pivot" year for the global energy mix. Before 2012, fossil fuels held perfectly steady. After 2012, renewables accelerated upward, and fossil fuels began their permanent decline. Adding a clear baseline line at 100 (`plt.axhline`) gives an immediate visual threshold and instantly show the exact year where green energy started actively **replacing** fossil fuels.

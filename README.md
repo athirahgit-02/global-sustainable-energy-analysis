@@ -1,4 +1,5 @@
 # Global Energy Transition Analysis: Growth vs. Decline (2000–2020)  
+Data Source: Compiled dataset hosted on [Kaggle](www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy), aggregating global metrics from the World Bank, the International Energy Agency (IEA) and Our World in Data (SDG 7).  
 
 ### By Nurul Athirah  
 

@@ -5,7 +5,7 @@ Data Source: Compiled dataset hosted on [Kaggle](https://www.kaggle.com/datasets
 
 ## Executive Summary  
 
-Problem: Analysing the global energy transition using raw generation volumes (TWh) makes the growth of renewable energy appear deceptively slow. Because fossil fuels dominate absolute capacity, raw volume scaling hides the true structural velocity of clean energy adoption.
+Problem: Analysing the global energy transition using raw generation volumes (TWh) makes the growth of renewable energy appear deceptively slow. Because fossil fuels dominate absolute capacity, raw volume scaling hides the true structural velocity of clean energy adoption.  
 Goal: To look past absolute baseline sizes by normalizing the data into grid percentages. This analysis aims to accurately measure, visualize, and statistically analyze the relative growth rate of renewable deployment against fossil fuel dependency across a 20-year timeline (2000–2020).
 
 ### Tech Stack & Tools:  

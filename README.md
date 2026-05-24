@@ -12,7 +12,7 @@ Goal: To look past absolute baseline sizes by normalizing the data into grid per
 
 * Language: Python  
 * Libraries: Pandas, NumPy, Matplotlib
-* Kaggle Notebooks (Cloud-based Jupyter environment)
+* Environment: Kaggle Notebooks (Cloud-based Jupyter environment)
 
 ## Data Cleaning & Transformation Pipeline  
 

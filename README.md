@@ -22,7 +22,7 @@ Here is how the data was transformed from a messy raw file into a high-quality a
 2. Null Values (Missing Data): Investigated the null values and dropped the columns that are **missing more than 25% of its data** as they can threatened the completeness of the project and introduce massive bias.
 3. Duplicate Rows: Ran a global duplicate verification check across key tracking columns and confirmed the dataset was **100% unique**. It is to ensures that every country has exactly one record per year, protecting the integrity of all calculations.
 
-### The Calculation Pipeline:  
+## The Data Analysis Pipeline:  
 
 1. Get Percentage Share: <br> Combined the total of two column (Electricity from renewables (TWh) & Electricity from fossil fuels (TWh)) to find Total Generation, then calculated each source's percentage out of this total.
 2. Find Global Average: Used Pandas `.groupby('Year').mean()` to calculate the average of the countries' percentages for each respective year. This condenses thousands of country rows into a single global timeline.
